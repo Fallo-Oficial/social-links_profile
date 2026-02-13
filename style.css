@@ -10,7 +10,7 @@
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.5);
   --surface-color-hover: rgba(0, 0, 0, 0.02);
-  --higtlight-color: rgba(255, 255, 255, 0.2);
+  --highlight-color: rgba(255, 255, 255, 0.2);
   --switch-bg-url: url(./assets/moon-stars.svg);
 }
 
@@ -160,5 +160,5 @@ ul li a:hover {
 footer {
   padding: 24px 0;
   text-align: center;
-  font-size: 14px;
+  font-size: 17px;
 }
